@@ -1,0 +1,119 @@
+{
+  "status": "success",
+  "data": {
+    "user_id": "123456789",
+    "trips": [
+      {
+        "trip_id": "1a2b3c4d5e6f",
+        "start_location": {
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "end_location": {
+          "latitude": 37.7833,
+          "longitude": -122.4167
+        },
+        "start_time": "2024-01-31T08:12:45Z",
+        "end_time": "2024-01-31T08:47:22Z",
+        "fare": 15.50,
+        "currency": "USD",
+        "distance": 5.2,
+        "distance_unit": "miles",
+        "duration": 1800,
+        "driver": {
+          "name": "John Doe",
+          "rating": 4.8
+        }
+      },
+      {
+        "trip_id": "7g8h9i0j1k2l",
+        "start_location": {
+          "latitude": 37.7833,
+          "longitude": -122.4167
+        },
+        "end_location": {
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "start_time": "2024-01-31T09:28:15Z",
+        "end_time": "2024-01-31T09:59:03Z",
+        "fare": 18.75,
+        "currency": "USD",
+        "distance": 6.5,
+        "distance_unit": "miles",
+        "duration": 1800,
+        "driver": {
+          "name": "Jane Smith",
+          "rating": 4.5
+        }
+      },
+      {
+        "trip_id": "m1n2o3p4q5r",
+        "start_location": {
+          "latitude": 37.7605,
+          "longitude": -122.4194
+        },
+        "end_location": {
+          "latitude": 37.7915,
+          "longitude": -122.4089
+        },
+        "start_time": "2024-02-01T10:45:30Z",
+        "end_time": "2024-02-01T11:30:15Z",
+        "fare": 22.00,
+        "currency": "USD",
+        "distance": 7.8,
+        "distance_unit": "miles",
+        "duration": 2700,
+        "driver": {
+          "name": "Bob Johnson",
+          "rating": 4.6
+        }
+      },
+      {
+        "trip_id": "x9y8z7a6b5c4d3",
+        "start_location": {
+          "latitude": 37.7955,
+          "longitude": -122.4051
+        },
+        "end_location": {
+          "latitude": 37.7833,
+          "longitude": -122.4167
+        },
+        "start_time": "2024-02-02T12:15:50Z",
+        "end_time": "2024-02-02T12:45:35Z",
+        "fare": 20.50,
+        "currency": "USD",
+        "distance": 8.3,
+        "distance_unit": "miles",
+        "duration": 1800,
+        "driver": {
+          "name": "Alice Anderson",
+          "rating": 4.9
+        }
+      },
+      {
+        "trip_id": "p2q3r4s5t6u7v8",
+        "start_location": {
+          "latitude": 37.7915,
+          "longitude": -122.4089
+        },
+        "end_location": {
+          "latitude": 37.7605,
+          "longitude": -122.4194
+        },
+        "start_time": "2024-02-03T14:30:20Z",
+        "end_time": "2024-02-03T15:00:10Z",
+        "fare": 15.00,
+        "currency": "USD",
+        "distance": 4.7,
+        "distance_unit": "miles",
+        "duration": 1800,
+        "driver": {
+          "name": "Charlie Brown",
+          "rating": 4.7
+        }
+      }
+    ]
+  }
+}
+
